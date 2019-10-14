@@ -2,7 +2,12 @@
 using namespace std;
 int main()
 {
-    int n=15;
+    int n;
+    cout<<"Enter an odd number: ";
+    cin>>n;
+
+    if(n<=1||n%2==0)
+        return 0;
 
     //Section 1
     int Offset=n, Lines=(n+1)/2;

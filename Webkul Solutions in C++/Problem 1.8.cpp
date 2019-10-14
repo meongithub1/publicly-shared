@@ -72,6 +72,6 @@ int main()
         cout<<"\n";
     }
 
-    cin.ignore();
+    cin.ignore(2);
     return 0;
 }

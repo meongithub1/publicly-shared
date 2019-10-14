@@ -1,2 +1,2 @@
 # Publicly shared repository
-Contains sources released in public domain
+Contains source files released in public domain
